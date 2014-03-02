@@ -6,8 +6,8 @@ I created this for a project I develop at my company (<a href="http://cacira.com
 
 See how it looks like below.
 
-<img src="screenshots/screenshot1.png" />
+<img src="screenshots/screenshot1.png" width="320" height="568" />
 
-<img src="screenshots/screenshot2.png" />
+<img src="screenshots/screenshot2.png" width="320" height="568" />
 
-<img src="screenshots/screenshot3.png" />
+<img src="screenshots/screenshot3.png" width="320" height="568" />
