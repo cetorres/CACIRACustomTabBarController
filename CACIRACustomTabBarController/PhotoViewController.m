@@ -33,7 +33,7 @@
     UIBarButtonItem *closeButton = [[UIBarButtonItem alloc] initWithImage:[UIImage imageNamed:@"icon_x.png"] style:UIBarButtonItemStylePlain target:self action:@selector(closePhotoView)];
     self.navigationItem.rightBarButtonItem = closeButton;
     
-    self.view.backgroundColor = [UIColor whiteColor];
+    self.view.backgroundColor = [UIColor lightGrayColor];
 }
 
 

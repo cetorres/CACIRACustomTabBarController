@@ -33,18 +33,22 @@
     UIViewController * view5 = [[UIViewController alloc] init];
     
     view1.title = @"Home";
+    view1.view.backgroundColor = [UIColor lightGrayColor];
     UINavigationController *nav1 = [[UINavigationController alloc] initWithRootViewController:view1];
     
     view2.title = @"Ranking";
+    view2.view.backgroundColor = [UIColor lightGrayColor];
     UINavigationController *nav2 = [[UINavigationController alloc] initWithRootViewController:view2];
     
     view3.title = @"Photo";
     UINavigationController *nav3 = [[UINavigationController alloc] initWithRootViewController:view3];
     
     view4.title = @"Blogs";
+    view4.view.backgroundColor = [UIColor lightGrayColor];
     UINavigationController *nav4 = [[UINavigationController alloc] initWithRootViewController:view4];
     
     view5.title = @"Profile";
+    view5.view.backgroundColor = [UIColor lightGrayColor];
     UINavigationController *nav5 = [[UINavigationController alloc] initWithRootViewController:view5];
     
     // Add views (with nav bar) to tab bar
